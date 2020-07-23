@@ -2,8 +2,8 @@
 
 ### Our Preferred Licenses
 
-- For software projects, we use xx
-- For documentation projects, we use yy
+- For software projects, we use **Apache License 2.0**
+- For documentation projects, we use **MIT**
 
 ### Acceptable Licenses
 
